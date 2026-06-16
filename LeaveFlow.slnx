@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="LeaveFlow.API/LeaveFlow.API.csproj" />
+  <Project Path="LeaveFlow.Application/LeaveFlow.Application.csproj" />
+  <Project Path="LeaveFlow.Domain/LeaveFlow.Domain.csproj" />
+  <Project Path="LeaveFlow.Infrastructure/LeaveFlow.Infrastructure.csproj" />
+  <Project Path="LeaveFlow.Tests/LeaveFlow.Tests.csproj" />
+</Solution>

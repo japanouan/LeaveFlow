@@ -1,0 +1,15 @@
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\bin\Debug\net8.0\LeaveFlow.Application.deps.json
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\bin\Debug\net8.0\LeaveFlow.Application.dll
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\bin\Debug\net8.0\LeaveFlow.Application.pdb
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\bin\Debug\net8.0\LeaveFlow.Domain.dll
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\bin\Debug\net8.0\LeaveFlow.Domain.pdb
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\obj\Debug\net8.0\LeaveFlow.Application.csproj.AssemblyReference.cache
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\obj\Debug\net8.0\LeaveFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\obj\Debug\net8.0\LeaveFlow.Application.AssemblyInfoInputs.cache
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\obj\Debug\net8.0\LeaveFlow.Application.AssemblyInfo.cs
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\obj\Debug\net8.0\LeaveFlow.Application.csproj.CoreCompileInputs.cache
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\obj\Debug\net8.0\LeaveFlo.50C5F3B1.Up2Date
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\obj\Debug\net8.0\LeaveFlow.Application.dll
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\obj\Debug\net8.0\refint\LeaveFlow.Application.dll
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\obj\Debug\net8.0\LeaveFlow.Application.pdb
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Application\obj\Debug\net8.0\ref\LeaveFlow.Application.dll

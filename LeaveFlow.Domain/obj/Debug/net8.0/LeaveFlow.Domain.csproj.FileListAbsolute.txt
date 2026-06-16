@@ -1,0 +1,11 @@
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\bin\Debug\net8.0\LeaveFlow.Domain.deps.json
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\bin\Debug\net8.0\LeaveFlow.Domain.dll
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\bin\Debug\net8.0\LeaveFlow.Domain.pdb
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\obj\Debug\net8.0\LeaveFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\obj\Debug\net8.0\LeaveFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\obj\Debug\net8.0\LeaveFlow.Domain.AssemblyInfo.cs
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\obj\Debug\net8.0\LeaveFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\obj\Debug\net8.0\LeaveFlow.Domain.dll
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\obj\Debug\net8.0\refint\LeaveFlow.Domain.dll
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\obj\Debug\net8.0\LeaveFlow.Domain.pdb
+C:\Users\japan\Desktop\Project\LeaveFlow\LeaveFlow.Domain\obj\Debug\net8.0\ref\LeaveFlow.Domain.dll
