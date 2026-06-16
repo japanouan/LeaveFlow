@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeaveFlow.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be17184636d644db10171506220ac43b473954ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeaveFlow.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeaveFlow.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

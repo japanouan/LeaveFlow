@@ -1,0 +1,9 @@
+# Next.js
+frontend/.next/
+frontend/node_modules/
+frontend/.env*.local
+
+# Env (ห้าม commit ทุกกรณี)
+.env
+.env.local
+.env.production
